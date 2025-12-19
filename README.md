@@ -3,10 +3,16 @@
 # CIBERSEGURIDAD, HACKING ÉTICO Y DESARROLLO
 
 # Sobre mí:
-🔐 Entusiasta de la ciberseguridad y hacking ético.
-👩‍💻 Apasionada por la creación de herramientas y desarrollo.
-🛠️ Desarrolladora de herramientas practicas.
+🔐 Apasionado de la ciberseguridad y hacking ético.
+
+👩‍💻 Entusiasta por la creación de herramientas y desarrollo.
+
+🛠️ Desarrollador de herramientas practicas.
+
 📚 Siempre aprendiendo nuevas técnicas y habilidades en el mundo de la seguridad.
+
+# Más de mi en:
+https://v0-personal-website-design-iota-blue.vercel.app/
 
 # 💻 Actualmente estoy:
 📘 Estudiando Hacking Ético.
