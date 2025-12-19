@@ -2,23 +2,20 @@
 
 # CIBERSEGURIDAD, HACKING ÉTICO Y DESARROLLO
 
-# Sobre mí:
+# ⭐ Sobre mí:
 🔐 Apasionado de la ciberseguridad y hacking ético.
-
 👩‍💻 Entusiasta por la creación de herramientas y desarrollo.
-
 🛠️ Desarrollador de herramientas practicas.
-
 📚 Siempre aprendiendo nuevas técnicas y habilidades en el mundo de la seguridad.
 
-# Más de mi en:
+# 📌 Más de mi en:
 https://v0-personal-website-design-iota-blue.vercel.app/
 
 # 💻 Actualmente estoy:
 📘 Estudiando Hacking Ético.
 🧠 Estudiando Diseño y Desarrollo de Software.
 🔧 Desarrollando herramientas para facilitar tareas de ciberseguridad.
-📘 Estudiando la Normativa ISO 27001/2022.
+
 <!--
 **Vl4c0d3v/Vl4c0d3v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
